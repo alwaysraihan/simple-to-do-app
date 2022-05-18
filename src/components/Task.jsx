@@ -6,7 +6,7 @@ const Task = () => {
     };
     return (
         <>
-            <div className="px-5 md:px-10 lg:px-[10%] xl:px-[15%] ">
+            <div className="px-5 md:px-10 lg:px-[10%] my-10 xl:px-[15%] ">
                 <div className="bg-white shadow-md rounded overflow-hidden">
                     <div>
                         <div class="overflow-x-auto">
